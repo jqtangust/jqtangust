@@ -10,9 +10,11 @@
 
 - 📅 **25/02/2024**: 🚀 I have created the **[repository](https://github.com/jqtangust/FilmRemoval)** for our paper _Learning to Remove Wrinkled Transparent Film with Polarized Prior_ (**CVPR 2024**). All related materials are preparing.
   
-- 📅 **01/12/2024**: 🔧 I have uploaded the implementation of **[EPCE-HDR](https://github.com/jqtangust/EPCE-HDR)**. This is the official implementation of _High Dynamic Range Image Reconstruction via Deep Explicit Polynomial Curve Estimation_ (**ECAI 2023 Oral**).
+- 📅 **01/12/2024**: 📈 I have uploaded the implementation of **[EPCE-HDR](https://github.com/jqtangust/EPCE-HDR)**. This is the official implementation of _High Dynamic Range Image Reconstruction via Deep Explicit Polynomial Curve Estimation_ (**ECAI 2023 Oral**).
   
 - 📅 **06/04/2023**: 🔧 I made a tiny tool for **[Small Defect Annotation](https://github.com/jqtangust/small_defect_annotation)**.
+
+- 🔧 I also did some interesting projects in **[Computer Architecture](https://github.com/jqtangust/3_Stage_MIPS_CPU)** and **[MIPS Compiler](https://github.com/jqtangust/C0_MIPS32_64_Compiler)**, fell free to access.
 
 ### Statistics 📊
 
