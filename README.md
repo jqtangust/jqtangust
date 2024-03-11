@@ -1,5 +1,3 @@
-<div align="left">
-
 ### Hi 👋, I'm Jiaqi Tang
 
 🎓 I am currently a __Ph.D. student in Artificial Intelligence__ at **[The Hong Kong University of Science and Technology (HKUST)](https://hkust-gz.edu.cn/)**.
