@@ -4,7 +4,7 @@
 
 🔍 I specialize in *Low-level Computer Vision*, *Large Vision-Language Model*, and *Multi-Modelity*. My passion lies in advancing the field of AI through innovative research and practical applications. 
 
-💼 If you're interested in my projects about AI and technology, feel free to **[connect with me](jtang092@connect.ust.hk)**.
+💼 If you're interested in my projects about AI and technology, feel free to [**connect with me**](mailto:jtang092@connect.ust.hk).
 
 ### Updates 📢
 
