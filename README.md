@@ -6,7 +6,6 @@
     <a href="https://www.researchgate.net/profile/Jiaqi-Tang-29" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://github.com/jqtangust?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/jqtangust" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://scholar.google.com.hk/citations?user=dl5CsIUAAAAJ&hl=en"><img src="citations.svg" alt="Citations"></a>
     <!--<a href="https://github.com/jqtangust" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
 </p>
 
