@@ -18,7 +18,7 @@
 
 ### Updates 📢
 
-- 📅 **01/05/2024**: 📈 We have done a preliminary evaluations GPT-4V's performance in [`visual affective computing`](https://github.com/EnVision-Research/GPT4Affectivity), and GPT4Affectivity has already been accepted by The 7th International Workshop on Computer Vision for Physiological Measurement on **CVPR 2024 Workshop**.
+- 📅 **01/05/2024**: 📈 We have done a preliminary evaluations GPT-4V's performance in [`visual affective computing`](https://github.com/EnVision-Research/GPT4Affectivity), and GPT4Affectivity has already been accepted by The 7th International Workshop on Computer Vision for Physiological Measurement on **CVPR 2024 Workshops**.
 
 - 📅 **25/02/2024**: 🚀 I have created the [`repository`](https://github.com/jqtangust/FilmRemoval) for our paper _Learning to Remove Wrinkled Transparent Film with Polarized Prior_ (**CVPR 2024**). All related materials are preparing.
   
