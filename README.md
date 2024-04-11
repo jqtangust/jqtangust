@@ -32,5 +32,5 @@
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jqtangust&show_icons=true&locale=en" alt="jqtangust" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqtangust&layout=compact&count_private=true" />
-</p>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqtangust&layout=compact&count_private=true" />
+</p> -->
