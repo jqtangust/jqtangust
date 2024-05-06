@@ -18,9 +18,9 @@
 
 ### Updates 📢
 
-- 📅 **01/04/2024**: 📈 We have done a preliminary evaluations GPT-4V's performance in [`visual affective computing`](https://github.com/EnVision-Research/GPT4Affectivity), and _GPT4Affectivity_ has already been accepted by The 7th International Workshop on Computer Vision for Physiological Measurement on **CVPRW 2024**.
+- 📅 **06/05/2024**: 🚀 I have open-sourced all the [`codes/datasets`](https://github.com/jqtangust/FilmRemoval) for our paper _Learning to Remove Wrinkled Transparent Film with Polarized Prior_ (**CVPR 2024**).
 
-- 📅 **25/02/2024**: 🚀 I have created the [`repository`](https://github.com/jqtangust/FilmRemoval) for our paper _Learning to Remove Wrinkled Transparent Film with Polarized Prior_ (**CVPR 2024**). All related materials are preparing.
+- 📅 **01/04/2024**: 📈 We have done a preliminary evaluations GPT-4V's performance in [`visual affective computing`](https://github.com/EnVision-Research/GPT4Affectivity), and _GPT4Affectivity_ has already been accepted by The 7th International Workshop on Computer Vision for Physiological Measurement on **CVPRW 2024**.
   
 - 📅 **01/12/2024**: 📈 I have uploaded the implementation of [`EPCE-HDR`](https://github.com/jqtangust/EPCE-HDR). This is the official implementation of _High Dynamic Range Image Reconstruction via Deep Explicit Polynomial Curve Estimation_ (**ECAI 2023 Oral**).
   
