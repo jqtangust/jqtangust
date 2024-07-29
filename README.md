@@ -18,6 +18,8 @@
 
 ### Updates 📢
 
+- 📅 **07/29/2024**: 🚀 I have open-sourced the [`datasets`](https://github.com/jqtangust/hawk) of our paper _**Hawk**: Learning to Understand Open-World Video Anomalies_.
+
 - 📅 **05/28/2024**: 🚀 I have open-sourced all the [`codes/datasets/pretrained model`](https://github.com/jqtangust/FilmRemoval) for our paper _Learning to Remove Wrinkled Transparent Film with Polarized Prior_ (**CVPR 2024**).
 
 - 📅 **01/04/2024**: 📈 We have done a preliminary evaluations GPT-4V's performance in [`visual affective computing`](https://github.com/EnVision-Research/GPT4Affectivity), and _GPT4Affectivity_ has already been accepted by The 7th International Workshop on Computer Vision for Physiological Measurement on **CVPRW 2024**.
