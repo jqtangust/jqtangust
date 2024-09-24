@@ -18,7 +18,7 @@
 
 ### Updates 📢
 
-- 📅 **09/24/2024**: 🚀 We have open-sourced the [`code and datasets`](https://github.com/jqtangust/IUF) of our paper _An Incremental Unified Framework for Small Defect Inspection_.
+- 📅 **09/24/2024**: 🚀 We have open-sourced the [`code and datasets`](https://github.com/jqtangust/IUF) of our paper _An Incremental Unified Framework for Small Defect Inspection_ (**ECCV 2024**).
 
 - 📅 **07/29/2024**: 🚀 I have open-sourced the [`datasets`](https://github.com/jqtangust/hawk) of our paper _**Hawk**: Learning to Understand Open-World Video Anomalies_.
 
