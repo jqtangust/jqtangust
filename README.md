@@ -20,7 +20,7 @@
 
 - 📅 **09/24/2024**: 🚀 We have open-sourced the [`code and datasets`](https://github.com/jqtangust/IUF) of our paper _An Incremental Unified Framework for Small Defect Inspection_ (**ECCV 2024**).
 
-- 📅 **07/29/2024**: 🚀 I have open-sourced the [`datasets`](https://github.com/jqtangust/hawk) of our paper _**Hawk**: Learning to Understand Open-World Video Anomalies_.
+- 📅 **07/29/2024**: 🚀 I have open-sourced the [`datasets`](https://github.com/jqtangust/hawk) of our paper _**Hawk**: Learning to Understand Open-World Video Anomalies_ (**NeurIPS 2024**).
 
 - 📅 **05/28/2024**: 🚀 I have open-sourced all the [`codes/datasets/pretrained model`](https://github.com/jqtangust/FilmRemoval) for our paper _Learning to Remove Wrinkled Transparent Film with Polarized Prior_ (**CVPR 2024**).
 
