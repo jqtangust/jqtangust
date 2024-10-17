@@ -10,7 +10,7 @@
 </p>
 
 
-🎓 I am currently a __Ph.D. student in Artificial Intelligence__ at The Hong Kong University of Science and Technology (HKUST).
+🎓 I am a __M.Phil. student in Artificial Intelligence__ at The Hong Kong University of Science and Technology (Guangzhou).
 
 🔍 I specialize in *Low-level Computer Vision*, *Large Vision-Language Model*, and *Multi-Modality*. My passion lies in advancing the field of AI through innovative research and practical applications. [[Academic Website]](https://jqtangust.github.io)
 
