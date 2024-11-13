@@ -12,7 +12,7 @@
 
 🎓 I am a __M.Phil. student in Artificial Intelligence__ at The Hong Kong University of Science and Technology (Guangzhou).
 
-🔍 I specialize in *Low-level Computer Vision*, *Large Vision-Language Model*, and *Multi-Modality*. My passion lies in advancing the field of AI through innovative research and practical applications. [[Academic Website]](https://jqtangust.github.io)
+🔍 I specialize in *Large Vision-Language Model*, and *Multi-Modality*. More information on my [[Academic Website]](https://jqtangust.github.io).
 
 💼 If you're interested in my projects, feel free to [[connect with me]](mailto:jtang092@connect.hkust-gz.edu.cn).
 
