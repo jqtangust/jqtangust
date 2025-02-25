@@ -10,4 +10,4 @@
 
 I specialize in __Multi-modal Large Language Models (MLLMs)__ . You can find more information on my [Academic Website](https://jqtangust.github.io).
 
-I have worked on numerous projects, including __[Hawk](https://github.com/jqtangust/hawk) (NeurIPS 2024)__, __[IUF](https://github.com/jqtangust/IUF) (ECCV 2024)__, __[Film Removal](https://github.com/jqtangust/FilmRemoval) (CVPR 2024)__ and __[EPCE-HDR](https://github.com/jqtangust/EPCE-HDR) (ECAI 2024 Oral)__. If you're interested in learning more about my work, please feel free to reach out to me.
+I lead numerous projects, including __[Hawk](https://github.com/jqtangust/hawk) (NeurIPS 2024)__, __[IUF](https://github.com/jqtangust/IUF) (ECCV 2024)__, __[Film Removal](https://github.com/jqtangust/FilmRemoval) (CVPR 2024)__ and __[EPCE-HDR](https://github.com/jqtangust/EPCE-HDR) (ECAI 2024 Oral)__. If you're interested in learning more about my work, please feel free to reach out to me.
