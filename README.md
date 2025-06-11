@@ -11,3 +11,5 @@
 I specialize in __Multi-modal Large Language Models (MLLMs)__ . You can find more information at [jqt.me](https://jqtangust.github.io).
 
 I lead numerous projects, including __[Hawk](https://github.com/jqtangust/hawk) (NeurIPS 2024)__, __[IUF](https://github.com/jqtangust/IUF) (ECCV 2024)__, __[Film Removal](https://github.com/jqtangust/FilmRemoval) (CVPR 2024)__ and __[EPCE-HDR](https://github.com/jqtangust/EPCE-HDR) (ECAI 2024 Oral)__. If you're interested in learning more about my work, please feel free to reach out to me.
+
+I also collaborate on multiple projects, including __[SURGEON](https://github.com/kadmkbl/SURGEON) (CVPR 2025 Highlight)__ and __[GPT4Affectivity](https://github.com/EnVision-Research/GPT4Affectivity) (CVPRW 2024 Oral)__
