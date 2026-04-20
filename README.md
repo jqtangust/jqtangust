@@ -8,8 +8,8 @@
 <!--     <a href="https://github.com/jqtangust" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a> -->
 </p>
 
-I specialize in __Multimodal Large Language Models (MLLMs)__, including multimodal understanding and reasoning.
+I specialize in __Multimodal Large Language Models (MLLMs)__ and __Agentic AI__, including multimodal perception, understanding, and reasoning.
 
-Besides, I also lead numerous projects in mutiple domains, including __[Robust-R1](https://github.com/jqtangust/robust-r1) (AAAI 2026 Oral)__, __[Hawk](https://github.com/jqtangust/hawk) (NeurIPS 2024)__, __[IUF](https://github.com/jqtangust/IUF) (ECCV 2024)__, __[Film Removal](https://github.com/jqtangust/FilmRemoval) (CVPR 2024)__ and __[EPCE-HDR](https://github.com/jqtangust/EPCE-HDR) (ECAI 2024 Oral)__. You can find more information at [jqt.me](https://jqtangust.github.io).
+I also lead numerous projects in mutiple domains, including __[Robust-R1](https://github.com/jqtangust/robust-r1) (AAAI 2026 Oral)__, __[Hawk](https://github.com/jqtangust/hawk) (NeurIPS 2024)__, __[IUF](https://github.com/jqtangust/IUF) (ECCV 2024)__, __[Film Removal](https://github.com/jqtangust/FilmRemoval) (CVPR 2024)__ and __[EPCE-HDR](https://github.com/jqtangust/EPCE-HDR) (ECAI 2024 Oral)__. You can find more information at [jqt.me](https://jqtangust.github.io).
 
 If you're interested in learning more about my work, please feel free to reach out to me. 
